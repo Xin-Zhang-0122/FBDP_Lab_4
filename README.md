@@ -10,8 +10,8 @@
 	
 	同时利用：
 	
-		word.set(itr.nextToken().toLowerCase());word.set(itr.nextToken().toLowerCase());
-		
+			word.set(itr.nextToken().toLowerCase());
+				
 	将所有字母置为小写，实现了忽略大小写的功能。
 	
 2. 矩阵乘法参考了书本的源代码实现(matrix.java)
