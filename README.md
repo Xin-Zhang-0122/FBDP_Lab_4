@@ -18,7 +18,7 @@
 
 3. 关系代数的选择、投影、并集、交集、差集及自然连接的MapReduce实现 
 
-（该部分代码参考了书本和https://blog.csdn.net/qq_38386316/article/details/81709690）
+（该部分代码参考了书本和https://blog.csdn.net/qq_38386316/article/details/81709690 ）
 	
 3.1. 选择关系的实现：(relation.java)
 
